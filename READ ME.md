@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the codes for the experiments performed in the following papers:
   
-Yuya Hikima, Yasunori Akagi, Naoki Marumo, and Hideaki Kim. "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing." In AAAI, 2023 (in press).
+Yuya Hikima, Yasunori Akagi, Hideaki Kim, Taichi Asami. "An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing." In AAAI, 2023 (in press).
   
 Contents of this repository:
 - **README** This file.
