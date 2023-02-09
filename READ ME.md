@@ -1,5 +1,3 @@
-# It is currently under preparation.
-
 # AAAI2023-An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-sourcing
 
 ## Overview
